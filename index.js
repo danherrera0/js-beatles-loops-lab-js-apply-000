@@ -27,7 +27,13 @@ array of facts about John Lennon (note that it might not be exactly the
 following facts):*/
 
 function johnLennonFacts(facts){
-  while()
+  let i=0;
+  while(i<facts.length){
+    let currentFact = facts[i];
+   let newFacts += `${currentFact}!!!`
+   ++i;
+  }
+  return newFacts;
 }
 
 /*```js
