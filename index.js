@@ -28,8 +28,8 @@ following facts):*/
 
 function johnLennonFacts(facts){
   let i=0;
+  let finalArr=[];
   while(i<facts.length){
-    let finalArr=[];
     let currentFact = facts[i];
    let newFact =`${currentFact}!!!`;
    finalArr.push(newFact);
