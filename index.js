@@ -35,7 +35,7 @@ function johnLennonFacts(facts){
    finalArr.push(newFact);
    ++i;
   }
-  return newFacts;
+  return finalArr;
 }
 
 /*```js
