@@ -61,6 +61,13 @@ number is less than `15`. The function should return the array with the strings
 
 function iLoveTheBeatles(number){
   let lastArr =[];
-  
+  let sentence = "I love the Beatles!"
+  do{
+    lastArr.push(sentence);
+    ++number;
+  }while{
+    number<15;
+  }
+  return lastArr;
 }
 
