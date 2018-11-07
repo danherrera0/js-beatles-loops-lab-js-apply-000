@@ -65,9 +65,7 @@ function iLoveTheBeatles(number){
   do{
     lastArr.push(sentence);
     ++number;
-  }while{
-    number<15;
-  }
+  }while(number<15)
   return lastArr;
 }
 
