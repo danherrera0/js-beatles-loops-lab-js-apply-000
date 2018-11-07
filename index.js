@@ -31,7 +31,8 @@ function johnLennonFacts(facts){
   while(i<facts.length){
     let finalArr=[];
     let currentFact = facts[i];
-   let newFact =  `${currentFact}!!!`
+   let newFact =`${currentFact}!!!`;
+   finalArr.push(newFact);
    ++i;
   }
   return newFacts;
