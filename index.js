@@ -26,7 +26,7 @@ function theBeatlesPlay (musicians, instruments){
 array of facts about John Lennon (note that it might not be exactly the
 following facts):*/
 
-```js
+/*```js
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
@@ -47,5 +47,5 @@ parameter. The condition of the loop should check to see that the parameter
 number is less than `15`. The function should return the array with the strings
 `"I love the Beatles!"`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-beatles-loops-lab' title='Beatles Loops'>Beatles Loops</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-beatles-loops-lab' title='Beatles Loops'>Beatles Loops</a> on Learn.co and start learning to code for free.</p>*/
 
